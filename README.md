@@ -1,3 +1,19 @@
+# What is this repository for?
+This is repository collects the code for programs that extract parameters required for operating robots given a human demonstration.
+These codes are used in the framework called [Learning-from-observation](https://www.microsoft.com/en-us/research/project/interactive-learning-from-observation/).
+In this framework, these processess are called as daemon. Under the [docker](docker) folder, you can find more detailed explanations.
+
+Related publications:
+* [A Learning-from-Observation Framework: One-Shot Robot Teaching for Grasp-Manipulation-Release Household Operations](https://ieeexplore.ieee.org/abstract/document/9382750)
+* [Learning from Observation: One-Shot Robot Teaching for Household Operations](https://arxiv.org/abs/2103.02274)
+
+
+# How do I get set up?
+These codes are assumed to be run on Ubuntu 18.04 with docker installed.
+For convenience, we provide a setup script for the host machine.
+Please refer to the [setupscript](setupscript) for details.
+
+```
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please

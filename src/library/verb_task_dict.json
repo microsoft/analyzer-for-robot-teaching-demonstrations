@@ -1,0 +1,15 @@
+{
+    "pick": "PTG11",
+    "approach": "PTG12",
+    "bring": "PTG12",
+    "set": "PTG12",
+    "carry": "PTG12",
+    "return": "PTG12",
+    "place": "PTG13",
+    "put": "PTG13",
+    "release": "RELEASE",
+    "open": "PTG3",
+    "rotate": "PTG5",
+    "grab": "GRASP",
+    "grasp": "GRASP"
+}
